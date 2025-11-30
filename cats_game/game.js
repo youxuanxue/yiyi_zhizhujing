@@ -5,8 +5,8 @@ const CONFIG = {
     CAT_SIZE: 50,
     CAT_SPEED: 0.3, // 降低猫咪移动速度
     BACKGROUND_SPEED: 1.0, // 降低背景移动速度
-    CAT_SPAWN_INTERVAL: 300, // 每0.3秒生成一只猫
-    MAX_CATS: 5, // 屏幕上最多同时存在的猫咪数量
+    CAT_SPAWN_INTERVAL: 500, // 每0.5秒生成一只猫
+    MAX_CATS: 8, // 屏幕上最多同时存在的猫咪数量
     LETTER_FONT_SIZE: 20,
     WORLD_SIZE: 2000 // 虚拟世界大小（比屏幕大很多）
 };

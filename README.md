@@ -6,69 +6,50 @@
 
 ```
 yiyi_zhizhujing/
-├── cats_game/              # 🎮 游戏目录
-│   ├── index.html          # 游戏主页面
-│   ├── style.css           # 游戏样式
-│   ├── game.js             # 游戏逻辑
-│   └── README.md           # 游戏说明文档
 │
-├── cats/                   # 🐱 猫咪图片资源目录
+├── 📄 README.md              # 项目主文档（本文件）
+├── 📄 .gitignore             # Git忽略配置
+│
+├── 🎮 cats_game/             # 游戏目录
+│   ├── index.html            # 游戏主页面
+│   ├── game.js               # 游戏核心逻辑
+│   ├── style.css             # 游戏样式
+│   └── README.md             # 游戏说明文档
+│
+├── 🐱 cats/                  # 猫咪图片资源目录
 │   └── cat_01.png ~ cat_97.png  # 97张猫咪图片
 │
-├── data/                   # 📊 数据文件目录
-│   ├── yaoyao.json         # 游戏使用的单词数据（主要）
-│   └── xuanxuan.json       # 备用单词数据
+├── 📊 data/                  # 数据文件目录
+│   ├── yaoyao.json           # 游戏使用的单词数据（主要）
+│   └── xuanxuan.json         # 备用单词数据
 │
-├── corpus/                 # 📚 原始数据目录
-│   ├── 1.jpg               # 原始图片
+├── 📚 corpus/                # 原始数据目录
+│   ├── 1.jpg                 # 原始图片文件
 │   ├── 2.jpg
 │   ├── 3.jpg
-│   └── pet单词测试.xlsx    # Excel单词数据源
+│   └── pet单词测试.xlsx      # Excel单词数据源
 │
-├── tools/                  # 🛠️ 工具脚本目录
-│   ├── extract_cat.py      # 猫咪图片提取脚本
-│   ├── extract_words.py    # 单词提取脚本（从Excel提取）
-│   └── rename_cats.py      # 猫咪图片重命名脚本
-│
-├── .gitignore              # Git忽略文件配置
-└── README.md               # 项目说明文档（本文件）
+└── 🛠️ tools/                 # 工具脚本目录
+    ├── extract_cat.py        # 猫咪图片提取工具
+    ├── extract_words.py      # 单词数据提取工具
+    └── rename_cats.py        # 图片重命名工具
 ```
-
-## ✨ 功能特点
-
-- 🎮 **流畅的游戏体验**: 基于Canvas的流畅动画
-- 🐱 **丰富的猫咪资源**: 97张可爱的猫咪图片
-- 📚 **大量单词库**: 支持多套单词数据
-- 🎯 **智能字母生成**: 根据屏幕情况智能生成需要的字母
-- 📱 **响应式设计**: 支持移动端和桌面端
-- 🎨 **精美界面**: 渐变背景、逼真的救助车设计
-- ⚡ **触摸加速**: 触摸时移动速度自动加倍
 
 ## 🚀 快速开始
 
-### 方法一：直接打开（可能有跨域限制）
-
-在浏览器中直接打开 `cats_game/index.html`
-
-### 方法二：使用本地服务器（推荐）
+### 方法一：使用本地服务器（推荐）
 
 ```bash
 # 在项目根目录下运行
-
-# 使用 Python 3
 python -m http.server 8000
 
-# 或使用 Python 2
-python -m SimpleHTTPServer 8000
-
-# 或使用 Node.js
-npx http-server
-
-# 或使用 PHP
-php -S localhost:8000
+# 然后在浏览器中访问
+http://localhost:8000/cats_game/
 ```
 
-然后在浏览器中访问 `http://localhost:8000/cats_game/`
+### 方法二：直接打开
+
+在浏览器中直接打开 `cats_game/index.html`（可能有跨域限制）
 
 ## 🎮 游戏说明
 
@@ -88,11 +69,12 @@ php -S localhost:8000
 
 ### 游戏特色
 
-- 🔄 **动态背景**: 背景根据车头方向反向移动，营造真实的驾驶感
-- 🎯 **顺序收集**: 必须按字母顺序收集才能得分，增加挑战性
-- 🐱 **猫咪叠加**: 收集到的猫咪会显示在救助车上，视觉反馈清晰
-- ⚡ **智能生成**: 优先生成屏幕上没有的需要字母，提高游戏效率
-- 📍 **字母提示**: 猫咪字母显示在图片上方，清晰可见
+- 🎨 **精美界面**: 渐变背景、逼真的救助车设计
+- 🐱 **丰富资源**: 97张可爱的猫咪图片
+- 🎯 **智能生成**: 根据屏幕情况智能生成需要的字母
+- 📱 **响应式设计**: 支持移动端和桌面端
+- ⚡ **触摸加速**: 触摸时速度自动加倍
+- 📍 **清晰显示**: 字母显示在猫咪图片上方
 
 ## 🛠️ 开发工具
 
@@ -100,16 +82,24 @@ php -S localhost:8000
 
 所有工具脚本位于 `tools/` 目录：
 
-- **`extract_cat.py`**: 从原始图片中提取猫咪图像
+- **`extract_cat.py`**: 从原始图片中提取猫咪主体，去除背景
 - **`extract_words.py`**: 从Excel文件（`corpus/pet单词测试.xlsx`）中提取单词数据
-- **`rename_cats.py`**: 批量重命名猫咪图片文件（cat_01.png ~ cat_97.png）
+- **`rename_cats.py`**: 批量重命名猫咪图片文件为统一格式
+
+**使用方法：**
+```bash
+# 从项目根目录运行（保持相对路径正确）
+python tools/extract_words.py
+python tools/extract_cat.py
+python tools/rename_cats.py
+```
 
 ### 数据文件说明
 
 所有数据文件位于 `data/` 目录：
 
 - **`yaoyao.json`**: 游戏主要使用的单词数据（132个单词）
-- **`xuanxuan.json`**: 备用单词数据（1392个单词）
+- **`xuanxuan.json`**: 备用单词数据
 
 #### 数据格式
 
@@ -119,11 +109,6 @@ JSON文件格式：
   {
     "english": "apple",
     "chinese": "苹果",
-    "unit": "U1"
-  },
-  {
-    "english": "cat",
-    "chinese": "猫",
     "unit": "U1"
   }
 ]
@@ -153,21 +138,25 @@ const response = await fetch('../data/xuanxuan.json'); // 使用备用数据
 - ✅ Safari
 - ✅ 移动端浏览器（iOS Safari, Chrome Mobile等）
 
-## 📝 更新日志
+## 📝 文件说明
 
-### v2.0 (当前版本)
-- ✨ 实现了逼真的救助车设计（车头、车窗、车轮等细节）
-- ✨ 添加了按顺序收集字母机制
-- ✨ 优化了字母生成算法（智能检测屏幕字母）
-- ✨ 改进了触摸控制体验
-- ✨ 添加了速度加倍功能
-- ✨ 字母显示在猫咪图片上方
-- 🎨 优化了背景绘制效果
+### 游戏核心文件
 
-### v1.0
-- 🎮 基础游戏功能
-- 🐱 97张猫咪图片资源
-- 📚 单词学习系统
+- `cats_game/index.html`: 游戏HTML入口页面
+- `cats_game/game.js`: 游戏逻辑（约785行）
+- `cats_game/style.css`: 游戏样式
+
+### 资源文件
+
+- `cats/`: 97张猫咪PNG图片（透明背景）
+- `data/yaoyao.json`: 游戏使用的单词数据
+- `data/xuanxuan.json`: 备用单词数据
+
+### 工具脚本
+
+- `tools/extract_cat.py`: 猫咪图片提取工具
+- `tools/extract_words.py`: 单词数据提取工具
+- `tools/rename_cats.py`: 图片重命名工具
 
 ## 📄 许可证
 
