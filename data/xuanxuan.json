@@ -1,0 +1,1392 @@
+[
+  {
+    "english": "advise",
+    "chinese": "建议",
+    "unit": "U1原词"
+  },
+  {
+    "english": "hand in homework",
+    "chinese": "上交作业",
+    "unit": "U1原词"
+  },
+  {
+    "english": "afford",
+    "chinese": "买得起,负担得起",
+    "unit": "U1原词"
+  },
+  {
+    "english": "hate",
+    "chinese": "讨厌",
+    "unit": "U1原词"
+  },
+  {
+    "english": "arrive at school",
+    "chinese": "到达学校",
+    "unit": "U1原词"
+  },
+  {
+    "english": "impressed",
+    "chinese": "钦佩的，印象深刻的",
+    "unit": "U1原词"
+  },
+  {
+    "english": "apologise",
+    "chinese": "道歉",
+    "unit": "U1原词"
+  },
+  {
+    "english": "be interested in",
+    "chinese": "对···感兴趣",
+    "unit": "U1原词"
+  },
+  {
+    "english": "attend classes",
+    "chinese": "上课",
+    "unit": "U1原词"
+  },
+  {
+    "english": "IT room",
+    "chinese": "计算机房",
+    "unit": "U1原词"
+  },
+  {
+    "english": "break up",
+    "chinese": "结束，打碎",
+    "unit": "U1原词"
+  },
+  {
+    "english": "join an after-school club",
+    "chinese": "加入课后社团",
+    "unit": "U1原词"
+  },
+  {
+    "english": "can't stand",
+    "chinese": "无法忍受，讨厌",
+    "unit": "U1原词"
+  },
+  {
+    "english": "quite like",
+    "chinese": "相当喜欢",
+    "unit": "U1原词"
+  },
+  {
+    "english": "canteen",
+    "chinese": "食堂",
+    "unit": "U1原词"
+  },
+  {
+    "english": "look forward to",
+    "chinese": "期待",
+    "unit": "U1原词"
+  },
+  {
+    "english": "classroom",
+    "chinese": "教室",
+    "unit": "U1原词"
+  },
+  {
+    "english": "love",
+    "chinese": "热爱",
+    "unit": "U1原词"
+  },
+  {
+    "english": "communicate",
+    "chinese": "交流",
+    "unit": "U1原词"
+  },
+  {
+    "english": "perform",
+    "chinese": "表演",
+    "unit": "U1原词"
+  },
+  {
+    "english": "concentrate",
+    "chinese": "全神贯注",
+    "unit": "U1原词"
+  },
+  {
+    "english": "persuade",
+    "chinese": "说服",
+    "unit": "U1原词"
+  },
+  {
+    "english": "creative",
+    "chinese": "有创造性的",
+    "unit": "U1原词"
+  },
+  {
+    "english": "pitch",
+    "chinese": "球场",
+    "unit": "U1原词"
+  },
+  {
+    "english": "decorate",
+    "chinese": "装饰",
+    "unit": "U1原词"
+  },
+  {
+    "english": "playground",
+    "chinese": "操场",
+    "unit": "U1原词"
+  },
+  {
+    "english": "disappointed",
+    "chinese": "感到失望的",
+    "unit": "U1原词"
+  },
+  {
+    "english": "reception",
+    "chinese": "接待处",
+    "unit": "U1原词"
+  },
+  {
+    "english": "dislike",
+    "chinese": "不喜欢",
+    "unit": "U1原词"
+  },
+  {
+    "english": "recipe",
+    "chinese": "食谱",
+    "unit": "U1原词"
+  },
+  {
+    "english": "drama",
+    "chinese": "戏剧",
+    "unit": "U1原词"
+  },
+  {
+    "english": "school hall",
+    "chinese": "学校礼堂",
+    "unit": "U1原词"
+  },
+  {
+    "english": "eat a packed lunch",
+    "chinese": "吃盒装午餐",
+    "unit": "U1原词"
+  },
+  {
+    "english": "science lab",
+    "chinese": "科学实验室",
+    "unit": "U1原词"
+  },
+  {
+    "english": "encourage",
+    "chinese": "鼓励",
+    "unit": "U1原词"
+  },
+  {
+    "english": "sports field",
+    "chinese": "运动场",
+    "unit": "U1原词"
+  },
+  {
+    "english": "enjoy",
+    "chinese": "喜欢，享受",
+    "unit": "U1原词"
+  },
+  {
+    "english": "strict",
+    "chinese": "严厉的，严格的",
+    "unit": "U1原词"
+  },
+  {
+    "english": "e-pal",
+    "chinese": "网友",
+    "unit": "U1原词"
+  },
+  {
+    "english": "swimming pool",
+    "chinese": "游泳池",
+    "unit": "U1原词"
+  },
+  {
+    "english": "exchange",
+    "chinese": "交换",
+    "unit": "U1原词"
+  },
+  {
+    "english": "take exams",
+    "chinese": "(参加)考试",
+    "unit": "U1原词"
+  },
+  {
+    "english": "fond of",
+    "chinese": "喜欢",
+    "unit": "U1原词"
+  },
+  {
+    "english": "take up",
+    "chinese": "开始从事",
+    "unit": "U1原词"
+  },
+  {
+    "english": "get good grades",
+    "chinese": "取得好成绩",
+    "unit": "U1原词"
+  },
+  {
+    "english": "tennis court",
+    "chinese": "网球场",
+    "unit": "U1原词"
+  },
+  {
+    "english": "get rid of",
+    "chinese": "摆脱，扔掉",
+    "unit": "U1原词"
+  },
+  {
+    "english": "wear a uniform",
+    "chinese": "穿制服",
+    "unit": "U1原词"
+  },
+  {
+    "english": "be good at",
+    "chinese": "擅长",
+    "unit": "U1原词"
+  },
+  {
+    "english": "work hard",
+    "chinese": "努力工作/学习",
+    "unit": "U1原词"
+  },
+  {
+    "english": "go on a school trip",
+    "chinese": "参加学校组织的旅行",
+    "unit": "U1原词"
+  },
+  {
+    "english": "gym",
+    "chinese": "体育馆",
+    "unit": "U1原词"
+  },
+  {
+    "english": "achieve",
+    "chinese": "实现，完成",
+    "unit": "U2原"
+  },
+  {
+    "english": "get in",
+    "chinese": "进入",
+    "unit": "U2原"
+  },
+  {
+    "english": "ambition",
+    "chinese": "野心，雄心",
+    "unit": "U2原"
+  },
+  {
+    "english": "give in",
+    "chinese": "认输，屈服",
+    "unit": "U2原"
+  },
+  {
+    "english": "athlete",
+    "chinese": "运动员",
+    "unit": "U2原"
+  },
+  {
+    "english": "gymnast",
+    "chinese": "体操运动员",
+    "unit": "U2原"
+  },
+  {
+    "english": "athletic",
+    "chinese": "擅长运动的，\n健壮的",
+    "unit": "U2原"
+  },
+  {
+    "english": "gymnastics",
+    "chinese": "体操运动",
+    "unit": "U2原"
+  },
+  {
+    "english": "athletics",
+    "chinese": "体育运动，\n田径运动",
+    "unit": "U2原"
+  },
+  {
+    "english": "have a positive/\nnegative attitude",
+    "chinese": "有 积极的/\n消极的态度",
+    "unit": "U2原"
+  },
+  {
+    "english": "beat",
+    "chinese": "打败，胜过",
+    "unit": "U2原"
+  },
+  {
+    "english": "join in",
+    "chinese": "参加，加入",
+    "unit": "U2原"
+  },
+  {
+    "english": "believe in",
+    "chinese": "信任，相信",
+    "unit": "U2原"
+  },
+  {
+    "english": "lose",
+    "chinese": "输，丢失",
+    "unit": "U2原"
+  },
+  {
+    "english": "champion",
+    "chinese": "冠军",
+    "unit": "U2原"
+  },
+  {
+    "english": "luck",
+    "chinese": "运气",
+    "unit": "U2原"
+  },
+  {
+    "english": "championship",
+    "chinese": "锦标赛，冠军称号",
+    "unit": "U2原"
+  },
+  {
+    "english": "match",
+    "chinese": "比赛",
+    "unit": "U2原"
+  },
+  {
+    "english": "competition",
+    "chinese": "比赛",
+    "unit": "U2原"
+  },
+  {
+    "english": "polite",
+    "chinese": "有礼貌的",
+    "unit": "U2原"
+  },
+  {
+    "english": "competitive",
+    "chinese": "竞争的，好胜的",
+    "unit": "U2原"
+  },
+  {
+    "english": "respect",
+    "chinese": "尊重",
+    "unit": "U2原"
+  },
+  {
+    "english": "competitor",
+    "chinese": "竞争者",
+    "unit": "U2原"
+  },
+  {
+    "english": "rude",
+    "chinese": "粗鲁的，没有礼貌的",
+    "unit": "U2原"
+  },
+  {
+    "english": "defeat",
+    "chinese": "击败",
+    "unit": "U2原"
+  },
+  {
+    "english": "score",
+    "chinese": "得分，分数",
+    "unit": "U2原"
+  },
+  {
+    "english": "disappointment",
+    "chinese": "失望",
+    "unit": "U2原"
+  },
+  {
+    "english": "stay in",
+    "chinese": "待在家里",
+    "unit": "U2原"
+  },
+  {
+    "english": "diving",
+    "chinese": "跳水，潜水",
+    "unit": "U2原"
+  },
+  {
+    "english": "succeed",
+    "chinese": "成功",
+    "unit": "U2原"
+  },
+  {
+    "english": "event",
+    "chinese": "赛事，大事",
+    "unit": "U2原"
+  },
+  {
+    "english": "talent",
+    "chinese": "天赋，才能",
+    "unit": "U2原"
+  },
+  {
+    "english": "fail",
+    "chinese": "失败，未能",
+    "unit": "U2原"
+  },
+  {
+    "english": "win",
+    "chinese": "赢",
+    "unit": "U2原"
+  },
+  {
+    "english": "bracelet",
+    "chinese": "手链",
+    "unit": "U3原"
+  },
+  {
+    "english": "location",
+    "chinese": "位置",
+    "unit": "U3原"
+  },
+  {
+    "english": "button",
+    "chinese": "纽扣",
+    "unit": "U3原"
+  },
+  {
+    "english": "market",
+    "chinese": "市场",
+    "unit": "U3原"
+  },
+  {
+    "english": "casual",
+    "chinese": "随意的",
+    "unit": "U3原"
+  },
+  {
+    "english": "material",
+    "chinese": "材料",
+    "unit": "U3原"
+  },
+  {
+    "english": "changing room",
+    "chinese": "更衣室",
+    "unit": "U3原"
+  },
+  {
+    "english": "maximum",
+    "chinese": "最大限度",
+    "unit": "U3原"
+  },
+  {
+    "english": "collar",
+    "chinese": "衣领",
+    "unit": "U3原"
+  },
+  {
+    "english": "navy blue",
+    "chinese": "深蓝色",
+    "unit": "U3原"
+  },
+  {
+    "english": "comfortable",
+    "chinese": "舒适的",
+    "unit": "U3原"
+  },
+  {
+    "english": "necklace",
+    "chinese": "项链",
+    "unit": "U3原"
+  },
+  {
+    "english": "cotton",
+    "chinese": "棉制的",
+    "unit": "U3原"
+  },
+  {
+    "english": "online",
+    "chinese": "网上的",
+    "unit": "U3原"
+  },
+  {
+    "english": "cream",
+    "chinese": "乳白色",
+    "unit": "U3原"
+  },
+  {
+    "english": "pink",
+    "chinese": "粉色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "dark",
+    "chinese": "深色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "purple",
+    "chinese": "紫色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "definitely",
+    "chinese": "肯定地",
+    "unit": "U3原"
+  },
+  {
+    "english": "request",
+    "chinese": "请求",
+    "unit": "U3原"
+  },
+  {
+    "english": "delayed",
+    "chinese": "推迟的延迟的",
+    "unit": "U3原"
+  },
+  {
+    "english": "ring",
+    "chinese": "戒指",
+    "unit": "U3原"
+  },
+  {
+    "english": "department store",
+    "chinese": "百货商店",
+    "unit": "U3原"
+  },
+  {
+    "english": "sandals",
+    "chinese": "凉鞋",
+    "unit": "U3原"
+  },
+  {
+    "english": "dress",
+    "chinese": "连衣裙 ， 穿衣",
+    "unit": "U3原"
+  },
+  {
+    "english": "second-hand",
+    "chinese": "二手的",
+    "unit": "U3原"
+  },
+  {
+    "english": "earrings",
+    "chinese": "耳环",
+    "unit": "U3原"
+  },
+  {
+    "english": "sew",
+    "chinese": "缝上",
+    "unit": "U3原"
+  },
+  {
+    "english": "end up",
+    "chinese": "以···告终",
+    "unit": "U3原"
+  },
+  {
+    "english": "shirt",
+    "chinese": "衬衣",
+    "unit": "U3原"
+  },
+  {
+    "english": "familiar",
+    "chinese": "熟悉的",
+    "unit": "U3原"
+  },
+  {
+    "english": "silver",
+    "chinese": "银子 ， 银色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "fashionable",
+    "chinese": "时髦的",
+    "unit": "U3原"
+  },
+  {
+    "english": "skirt",
+    "chinese": "短裙",
+    "unit": "U3原"
+  },
+  {
+    "english": "forbidden",
+    "chinese": "禁止的",
+    "unit": "U3原"
+  },
+  {
+    "english": "sleeve",
+    "chinese": "袖子",
+    "unit": "U3原"
+  },
+  {
+    "english": "gloves",
+    "chinese": "手套",
+    "unit": "U3原"
+  },
+  {
+    "english": "smart",
+    "chinese": "光鲜的衣着讲究的",
+    "unit": "U3原"
+  },
+  {
+    "english": "gold",
+    "chinese": "金子 ，金色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "stylish",
+    "chinese": "时尚的",
+    "unit": "U3原"
+  },
+  {
+    "english": "heel",
+    "chinese": "鞋跟",
+    "unit": "U3原"
+  },
+  {
+    "english": "suit",
+    "chinese": "西装 ， 适合",
+    "unit": "U3原"
+  },
+  {
+    "english": "iron",
+    "chinese": "熨斗",
+    "unit": "U3原"
+  },
+  {
+    "english": "sweatshirt",
+    "chinese": "（长袖）运动衫",
+    "unit": "U3原"
+  },
+  {
+    "english": "jacket",
+    "chinese": "夹克",
+    "unit": "U3原"
+  },
+  {
+    "english": "top",
+    "chinese": "上衣",
+    "unit": "U3原"
+  },
+  {
+    "english": "jeans",
+    "chinese": "牛仔裤",
+    "unit": "U3原"
+  },
+  {
+    "english": "traditional",
+    "chinese": "传统的",
+    "unit": "U3原"
+  },
+  {
+    "english": "jumper",
+    "chinese": "针织套衫",
+    "unit": "U3原"
+  },
+  {
+    "english": "trainers",
+    "chinese": "运动鞋",
+    "unit": "U3原"
+  },
+  {
+    "english": "leather",
+    "chinese": "皮革",
+    "unit": "U3原"
+  },
+  {
+    "english": "T-shirt",
+    "chinese": "T恤",
+    "unit": "U3原"
+  },
+  {
+    "english": "light",
+    "chinese": "浅色的",
+    "unit": "U3原"
+  },
+  {
+    "english": "wool",
+    "chinese": "羊毛",
+    "unit": "U3原"
+  },
+  {
+    "english": "afraid （of）",
+    "chinese": "害怕的",
+    "unit": "U4原"
+  },
+  {
+    "english": "hero",
+    "chinese": "英雄",
+    "unit": "U4原"
+  },
+  {
+    "english": "amazed（ about/ by）",
+    "chinese": "吃惊的，惊奇的",
+    "unit": "U4原"
+  },
+  {
+    "english": "impressed （by/with)",
+    "chinese": "钦佩的,印象深刻的",
+    "unit": "U4原"
+  },
+  {
+    "english": "annoyed （about/by/with）",
+    "chinese": "生气的",
+    "unit": "U4原"
+  },
+  {
+    "english": "jealous（ of）",
+    "chinese": "嫉妒的",
+    "unit": "U4原"
+  },
+  {
+    "english": "anxious （about）",
+    "chinese": "焦虑的，担忧的",
+    "unit": "U4原"
+  },
+  {
+    "english": "nervous",
+    "chinese": "紧张的",
+    "unit": "U4原"
+  },
+  {
+    "english": "audience",
+    "chinese": "观众",
+    "unit": "U4原"
+  },
+  {
+    "english": "ordinary",
+    "chinese": "普通的",
+    "unit": "U4原"
+  },
+  {
+    "english": "calm",
+    "chinese": "平静的",
+    "unit": "U4原"
+  },
+  {
+    "english": "power",
+    "chinese": "能力，力量",
+    "unit": "U4原"
+  },
+  {
+    "english": "challenging",
+    "chinese": "有挑战性的",
+    "unit": "U4原"
+  },
+  {
+    "english": "relax",
+    "chinese": "放松",
+    "unit": "U4原"
+  },
+  {
+    "english": "character",
+    "chinese": "角色",
+    "unit": "U4原"
+  },
+  {
+    "english": "rely on",
+    "chinese": "信赖，依靠",
+    "unit": "U4原"
+  },
+  {
+    "english": "clap",
+    "chinese": "拍手",
+    "unit": "U4原"
+  },
+  {
+    "english": "satisfied( with)",
+    "chinese": "满意的",
+    "unit": "U4原"
+  },
+  {
+    "english": "comedy",
+    "chinese": "喜剧",
+    "unit": "U4原"
+  },
+  {
+    "english": "science-fiction",
+    "chinese": "科幻的",
+    "unit": "U4原"
+  },
+  {
+    "english": "concert",
+    "chinese": "音乐会",
+    "unit": "U4原"
+  },
+  {
+    "english": "serious （about）",
+    "chinese": "严肃的",
+    "unit": "U4原"
+  },
+  {
+    "english": "costume",
+    "chinese": "戏服",
+    "unit": "U4原"
+  },
+  {
+    "english": "shy",
+    "chinese": "害羞的，胆怯的",
+    "unit": "U4原"
+  },
+  {
+    "english": "deal with",
+    "chinese": "处理",
+    "unit": "U4原"
+  },
+  {
+    "english": "surprised （about/by）",
+    "chinese": "惊讶的，惊喜的",
+    "unit": "U4原"
+  },
+  {
+    "english": "disappointed（ about/by/with）",
+    "chinese": "失望的",
+    "unit": "U4原"
+  },
+  {
+    "english": "take part",
+    "chinese": "参加",
+    "unit": "U4原"
+  },
+  {
+    "english": "excited （about /by）",
+    "chinese": "兴奋的",
+    "unit": "U4原"
+  },
+  {
+    "english": "take place",
+    "chinese": "发生",
+    "unit": "U4原"
+  },
+  {
+    "english": "experience",
+    "chinese": "经验经历",
+    "unit": "U4原"
+  },
+  {
+    "english": "talent show",
+    "chinese": "才艺表演",
+    "unit": "U4原"
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "unit": "U4原"
+  },
+  {
+    "english": "worried （about/by）",
+    "chinese": "担心的",
+    "unit": "U4原"
+  },
+  {
+    "english": "allowed",
+    "chinese": "允许的",
+    "unit": "U5原"
+  },
+  {
+    "english": "peach",
+    "chinese": "桃子",
+    "unit": "U5原"
+  },
+  {
+    "english": "beef",
+    "chinese": "牛肉",
+    "unit": "U5原"
+  },
+  {
+    "english": "permit",
+    "chinese": "允许",
+    "unit": "U5原"
+  },
+  {
+    "english": "boiled",
+    "chinese": "水煮的",
+    "unit": "U5原"
+  },
+  {
+    "english": "pineapple",
+    "chinese": "菠萝",
+    "unit": "U5原"
+  },
+  {
+    "english": "bread",
+    "chinese": "面包",
+    "unit": "U5原"
+  },
+  {
+    "english": "put away",
+    "chinese": "收好，放好",
+    "unit": "U5原"
+  },
+  {
+    "english": "butter",
+    "chinese": "黄油",
+    "unit": "U5原"
+  },
+  {
+    "english": "put down",
+    "chinese": "写下，放下",
+    "unit": "U5原"
+  },
+  {
+    "english": "cabbage",
+    "chinese": "圆白菜",
+    "unit": "U5原"
+  },
+  {
+    "english": "put off",
+    "chinese": "推迟",
+    "unit": "U5原"
+  },
+  {
+    "english": "carrot",
+    "chinese": "胡萝卜",
+    "unit": "U5原"
+  },
+  {
+    "english": "put on",
+    "chinese": "打开，增加，穿上",
+    "unit": "U5原"
+  },
+  {
+    "english": "cheese",
+    "chinese": "奶酪",
+    "unit": "U5原"
+  },
+  {
+    "english": "put out",
+    "chinese": "关掉，熄灭",
+    "unit": "U5原"
+  },
+  {
+    "english": "chicken",
+    "chinese": "鸡，鸡肉",
+    "unit": "U5原"
+  },
+  {
+    "english": "put up",
+    "chinese": "提高（价格）",
+    "unit": "U5原"
+  },
+  {
+    "english": "cod",
+    "chinese": "鳕鱼",
+    "unit": "U5原"
+  },
+  {
+    "english": "raw",
+    "chinese": "生的",
+    "unit": "U5原"
+  },
+  {
+    "english": "corn",
+    "chinese": "玉米",
+    "unit": "U5原"
+  },
+  {
+    "english": "require",
+    "chinese": "要求",
+    "unit": "U5原"
+  },
+  {
+    "english": "fish",
+    "chinese": "鱼，鱼肉",
+    "unit": "U5原"
+  },
+  {
+    "english": "responsible",
+    "chinese": "负责任的",
+    "unit": "U5原"
+  },
+  {
+    "english": "fit",
+    "chinese": "健康的",
+    "unit": "U5原"
+  },
+  {
+    "english": "salad",
+    "chinese": "沙拉",
+    "unit": "U5原"
+  },
+  {
+    "english": "fitness",
+    "chinese": "健康",
+    "unit": "U5原"
+  },
+  {
+    "english": "salmon",
+    "chinese": "三文鱼",
+    "unit": "U5原"
+  },
+  {
+    "english": "fried",
+    "chinese": "油炸的",
+    "unit": "U5原"
+  },
+  {
+    "english": "soup",
+    "chinese": "汤",
+    "unit": "U5原"
+  },
+  {
+    "english": "frozen",
+    "chinese": "冷冻的",
+    "unit": "U5原"
+  },
+  {
+    "english": "spinach",
+    "chinese": "菠菜",
+    "unit": "U5原"
+  },
+  {
+    "english": "fruit",
+    "chinese": "水果",
+    "unit": "U5原"
+  },
+  {
+    "english": "strawberry",
+    "chinese": "草莓",
+    "unit": "U5原"
+  },
+  {
+    "english": "grape",
+    "chinese": "葡萄",
+    "unit": "U5原"
+  },
+  {
+    "english": "tuna",
+    "chinese": "金枪鱼",
+    "unit": "U5原"
+  },
+  {
+    "english": "health",
+    "chinese": "健康",
+    "unit": "U5原"
+  },
+  {
+    "english": "turkey",
+    "chinese": "火鸡",
+    "unit": "U5原"
+  },
+  {
+    "english": "healthy",
+    "chinese": "（有益）健康的",
+    "unit": "U5原"
+  },
+  {
+    "english": "unfit",
+    "chinese": "不健康的",
+    "unit": "U5原"
+  },
+  {
+    "english": "label",
+    "chinese": "标签",
+    "unit": "U5原"
+  },
+  {
+    "english": "unhealthy",
+    "chinese": "不（益于）健康的",
+    "unit": "U5原"
+  },
+  {
+    "english": "lamb",
+    "chinese": "羔羊，羔羊肉",
+    "unit": "U5原"
+  },
+  {
+    "english": "yoghurt",
+    "chinese": "酸奶",
+    "unit": "U5原"
+  },
+  {
+    "english": "lettuce",
+    "chinese": "生菜",
+    "unit": "U5原"
+  },
+  {
+    "english": "art gallery",
+    "chinese": "美术馆",
+    "unit": "U6原"
+  },
+  {
+    "english": "freezing",
+    "chinese": "极冷的",
+    "unit": "U6原"
+  },
+  {
+    "english": "balcony",
+    "chinese": "阳台",
+    "unit": "U6原"
+  },
+  {
+    "english": "historical building",
+    "chinese": "历史建筑",
+    "unit": "U6原"
+  },
+  {
+    "english": "beach",
+    "chinese": "海滩",
+    "unit": "U6原"
+  },
+  {
+    "english": "huge",
+    "chinese": "巨大的",
+    "unit": "U6原"
+  },
+  {
+    "english": "castle",
+    "chinese": "城堡",
+    "unit": "U6原"
+  },
+  {
+    "english": "island",
+    "chinese": "岛屿",
+    "unit": "U6原"
+  },
+  {
+    "english": "city",
+    "chinese": "城市",
+    "unit": "U6原"
+  },
+  {
+    "english": "jungle",
+    "chinese": "丛林",
+    "unit": "U6原"
+  },
+  {
+    "english": "coast",
+    "chinese": "海岸",
+    "unit": "U6原"
+  },
+  {
+    "english": "ladder",
+    "chinese": "梯子",
+    "unit": "U6原"
+  },
+  {
+    "english": "concentrate",
+    "chinese": "全身贯注",
+    "unit": "U6原"
+  },
+  {
+    "english": "lake",
+    "chinese": "湖",
+    "unit": "U6原"
+  },
+  {
+    "english": "convenient",
+    "chinese": "方便的",
+    "unit": "U6原"
+  },
+  {
+    "english": "lively",
+    "chinese": "活泼的，热闹的",
+    "unit": "U6原"
+  },
+  {
+    "english": "cosy",
+    "chinese": "温暖舒适的",
+    "unit": "U6原"
+  },
+  {
+    "english": "mountain",
+    "chinese": "大山",
+    "unit": "U6原"
+  },
+  {
+    "english": "countryside",
+    "chinese": "乡村",
+    "unit": "U6原"
+  },
+  {
+    "english": "peaceful",
+    "chinese": "平静的",
+    "unit": "U6原"
+  },
+  {
+    "english": "crowded",
+    "chinese": "拥挤的",
+    "unit": "U6原"
+  },
+  {
+    "english": "sociable",
+    "chinese": "善交际的",
+    "unit": "U6原"
+  },
+  {
+    "english": "cultural events",
+    "chinese": "文化活动",
+    "unit": "U6原"
+  },
+  {
+    "english": "space",
+    "chinese": "空间",
+    "unit": "U6原"
+  },
+  {
+    "english": "desert",
+    "chinese": "沙漠",
+    "unit": "U6原"
+  },
+  {
+    "english": "storm",
+    "chinese": "暴风雨",
+    "unit": "U6原"
+  },
+  {
+    "english": "dull",
+    "chinese": "令人无聊的",
+    "unit": "U6原"
+  },
+  {
+    "english": "view",
+    "chinese": "景色",
+    "unit": "U6原"
+  },
+  {
+    "english": "forest",
+    "chinese": "森林",
+    "unit": "U6原"
+  },
+  {
+    "english": "village",
+    "chinese": "村庄",
+    "unit": "U6原"
+  },
+  {
+    "english": "bat",
+    "chinese": "蝙蝠",
+    "unit": "U7原"
+  },
+  {
+    "english": "cage",
+    "chinese": "笼子",
+    "unit": "U7原"
+  },
+  {
+    "english": "camel",
+    "chinese": "骆驼",
+    "unit": "U7原"
+  },
+  {
+    "english": "clear",
+    "chinese": "清楚的，晴朗的",
+    "unit": "U7原"
+  },
+  {
+    "english": "climate change",
+    "chinese": "气候变化",
+    "unit": "U7原"
+  },
+  {
+    "english": "cruel",
+    "chinese": "残酷的",
+    "unit": "U7原"
+  },
+  {
+    "english": "elephant",
+    "chinese": "大象",
+    "unit": "U7原"
+  },
+  {
+    "english": "environment",
+    "chinese": "环境",
+    "unit": "U7原"
+  },
+  {
+    "english": "frozen",
+    "chinese": "冷冻的，结冰的",
+    "unit": "U7原"
+  },
+  {
+    "english": "gorilla",
+    "chinese": "大猩猩",
+    "unit": "U7原"
+  },
+  {
+    "english": "humid",
+    "chinese": "湿热的",
+    "unit": "U7原"
+  },
+  {
+    "english": "ice",
+    "chinese": "冷",
+    "unit": "U7原"
+  },
+  {
+    "english": "keep doing",
+    "chinese": "一直做，继续做",
+    "unit": "U7原"
+  },
+  {
+    "english": "litter",
+    "chinese": "垃圾",
+    "unit": "U7原"
+  },
+  {
+    "english": "ocean",
+    "chinese": "海洋",
+    "unit": "U7原"
+  },
+  {
+    "english": "oil",
+    "chinese": "石油，油",
+    "unit": "U7原"
+  },
+  {
+    "english": "airport",
+    "chinese": "机场",
+    "unit": "U8原"
+  },
+  {
+    "english": "ambition",
+    "chinese": "雄心，理想",
+    "unit": "U8原"
+  },
+  {
+    "english": "boarding pass",
+    "chinese": "登机牌",
+    "unit": "U8原"
+  },
+  {
+    "english": "check in",
+    "chinese": "办理登机",
+    "unit": "U8原"
+  },
+  {
+    "english": "gate",
+    "chinese": "登机口",
+    "unit": "U8原"
+  },
+  {
+    "english": "harbour",
+    "chinese": "港口",
+    "unit": "U8原"
+  },
+  {
+    "english": "influence",
+    "chinese": "影响",
+    "unit": "U8原"
+  },
+  {
+    "english": "land",
+    "chinese": "着陆",
+    "unit": "U8原"
+  },
+  {
+    "english": "motorway",
+    "chinese": "高速公路",
+    "unit": "U8原"
+  },
+  {
+    "english": "pilot",
+    "chinese": "飞行员",
+    "unit": "U8原"
+  },
+  {
+    "english": "platform",
+    "chinese": "站台",
+    "unit": "U8原"
+  },
+  {
+    "english": "rough",
+    "chinese": "粗糙的，风浪大的",
+    "unit": "U8原"
+  },
+  {
+    "english": "roundabout",
+    "chinese": "环岛",
+    "unit": "U8原"
+  }
+]

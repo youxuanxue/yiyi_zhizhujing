@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>猫咪救助站 - 单词游戏</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="header">
+            <div class="score">分数: <span id="score">0</span></div>
+            <div class="current-word">
+                <div class="word-label">当前单词:</div>
+                <div class="word-text" id="currentWord">加载中...</div>
+                <div class="word-chinese" id="wordChinese"></div>
+            </div>
+            <div class="target-letters">
+                <div class="target-label">需要收集的字母:</div>
+                <div class="letters" id="targetLetters"></div>
+            </div>
+        </div>
+        
+        <div class="game-area">
+            <canvas id="gameCanvas"></canvas>
+            <div class="controls-hint">触摸并拖动救助车改变方向</div>
+        </div>
+        
+        <div class="footer">
+            <button id="restartBtn" class="btn">重新开始</button>
+            <button id="nextWordBtn" class="btn">下一个单词</button>
+        </div>
+    </div>
+    
+    <script src="game.js"></script>
+</body>
+</html>
+

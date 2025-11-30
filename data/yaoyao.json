@@ -1,0 +1,132 @@
+[
+  {
+    "english": "apple",
+    "chinese": "苹果",
+    "unit": "U1"
+  },
+  {
+    "english": "banana",
+    "chinese": "香蕉",
+    "unit": "U1"
+  },
+  {
+    "english": "cat",
+    "chinese": "猫",
+    "unit": "U1"
+  },
+  {
+    "english": "dog",
+    "chinese": "狗",
+    "unit": "U1"
+  },
+  {
+    "english": "elephant",
+    "chinese": "大象",
+    "unit": "U1"
+  },
+  {
+    "english": "fish",
+    "chinese": "鱼",
+    "unit": "U2"
+  },
+  {
+    "english": "goat",
+    "chinese": "山羊",
+    "unit": "U2"
+  },
+  {
+    "english": "hat",
+    "chinese": "帽子",
+    "unit": "U2"
+  },
+  {
+    "english": "ice cream",
+    "chinese": "冰淇淋",
+    "unit": "U2"
+  },
+  {
+    "english": "jacket",
+    "chinese": "夹克",
+    "unit": "U3"
+  },
+  {
+    "english": "kite",
+    "chinese": "风筝",
+    "unit": "U3"
+  },
+  {
+    "english": "lion",
+    "chinese": "狮子",
+    "unit": "U3"
+  },
+  {
+    "english": "monkey",
+    "chinese": "猴子",
+    "unit": "U3"
+  },
+  {
+    "english": "nest",
+    "chinese": "鸟巢",
+    "unit": "U4"
+  },
+  {
+    "english": "orange",
+    "chinese": "橙子",
+    "unit": "U4"
+  },
+  {
+    "english": "panda",
+    "chinese": "熊猫",
+    "unit": "U4"
+  },
+  {
+    "english": "queen",
+    "chinese": "女王",
+    "unit": "U4"
+  },
+  {
+    "english": "rabbit",
+    "chinese": "兔子",
+    "unit": "U5"
+  },
+  {
+    "english": "sun",
+    "chinese": "太阳",
+    "unit": "U5"
+  },
+  {
+    "english": "turtle",
+    "chinese": "乌龟",
+    "unit": "U5"
+  },
+  {
+    "english": "umbrella",
+    "chinese": "伞",
+    "unit": "U5"
+  },
+  {
+    "english": "van",
+    "chinese": "货车",
+    "unit": "U6"
+  },
+  {
+    "english": "watermelon",
+    "chinese": "西瓜",
+    "unit": "U6"
+  },
+  {
+    "english": "xylophone",
+    "chinese": "木琴",
+    "unit": "U6"
+  },
+  {
+    "english": "yellow",
+    "chinese": "黄色",
+    "unit": "U6"
+  },
+  {
+    "english": "zebra",
+    "chinese": "斑马",
+    "unit": "U6"
+  }
+]
